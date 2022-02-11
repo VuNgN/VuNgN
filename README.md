@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/VuNgN" alt="GitHub badge" />
   </a>
   <a href="https://www.youtube.com/channel/UCu6-67dmfJEuYPnaX7HZWSw">
-    <img src="https://img.shields.io/badge/-Youtube-fff?style=for-the-badge&logo=Youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCu6-67dmfJEuYPnaX7HZWSw/" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Youtube-eeeeee?style=for-the-badge&logo=Youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCu6-67dmfJEuYPnaX7HZWSw/" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/vu_.nguyen_">
     <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/vu_.nguyen_/" alt="LinkedIn" />
