@@ -23,6 +23,12 @@
   </a>
 </p>
 
+<p align="center">
+           <a href="http://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2300F4FF&center=true&vCenter=true&lines=Nguy%E1%BB%85n+Ng%E1%BB%8Dc+V%C5%A9)](https://git.io/typing-svg">    <img  alt="VuNgN's GitHub Stats" src="http://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2300F4FF&center=true&vCenter=true&lines=Nguy%E1%BB%85n+Ng%E1%BB%8Dc+V%C5%A9" />  </a>
+</p>
+
+
+
 
 
   
