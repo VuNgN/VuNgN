@@ -6,7 +6,9 @@
 
 # <p align="center">Vũ N - GITHUB 👋</p>
 
-<p align="center">I'm Nguyễn Ngọc Vũ, a Vietnamese student in Thủy Lợi university</p>
+<p align="center">Nguyễn Ngọc Vũ</p>
+<p align="center">Android application developer</p>
+<p align="center">Ha Noi, Vietnam</p>
 </br>
 <p align="center">
   <a href="https://github.com/VuNgN">
